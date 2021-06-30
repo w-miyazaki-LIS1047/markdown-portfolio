@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. お気に入り
+   * 本
+   * 食事
+   * 音楽 
